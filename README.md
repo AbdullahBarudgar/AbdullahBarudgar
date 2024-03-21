@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @AbdullahBarudgar
-- 👀 I’m interested in Android App Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning: 
-📌 Languages: C, Java, Kotlin ,SQL ,XML
+📌 Languages: C, Java, Kotlin ,SQL ,XML,C++
 
-📌 Software: Android Studio, Eclipse, IntelliJ Idea ,Git, Firebase, Postman API , VpiceFlow , Integromat.
+📌 Software: Android Studio, Eclipse, IntelliJ Idea ,Git, Firebase, Postman API , VpiceFlow , Integromat,Codeblock.
 
-📌 Subject: Data Structures and Algorithms, DBMS, OS, OOPS, Networking
+📌 Subject: Data Structures and Algorithms, DBMS, OS, OOPS, Networking.
 
 📌 Database: MySQL, SQLite, Firebase Database, XAMP.
 
